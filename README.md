@@ -5,7 +5,7 @@
 * MathUtil class includes multiple math methods
 * .gitignore file 
 * README.md file
-* *...
+* ...
 
 ### Connect me via:
 #### [My Facebook](https://www.facebook.com/khanhduy.ho.148/)
