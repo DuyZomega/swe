@@ -6,8 +6,9 @@
 * .gitignore file 
 * README.md file
 * ...
-:upside_down_face:
+
 ### Connect me via:
+:upside_down_face:
 #### [My Facebook](https://www.facebook.com/khanhduy.ho.148/)
 :upside_down_face:
 #### ©2021 DuyZomega
